@@ -11,6 +11,7 @@
 ---
 
 ### 👤 About Me
+
 * 🎓 **Engineering Student** focused on technical logic and creative problem solving.
 * 🤖 **AI Developer** for **Team ET**, specializing in Agentic HR workflows.
 * 💻 **Web Developer** exploring Frontend design and Python automation.
