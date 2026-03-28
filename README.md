@@ -27,4 +27,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Sanskruti21Barve & show_icons=true & theme=radical))
+![Your Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Sanskruti21Barve&show_icons=true&theme=radical)
