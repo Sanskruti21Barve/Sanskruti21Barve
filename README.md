@@ -3,7 +3,7 @@
 ### Aspiring Software Engineer | Full-Stack AI Learner
 
 <p align="left">
-<a href="https://linkedin.com/in/Sanskruti Barve"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sanskruti-barve-295b44377"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sanskrutibarve1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Sanskruti21Barve&label=PROFILE+VIEWS&color=0078d4&style=for-the-badge" />
 </p>
